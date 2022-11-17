@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eugenio Mercuriali @eugeniomercurialiorderchamp
+- 👋 Hi, I’m Eugenio Mercuriali
 - Passionate about Data Science, Statistics and Machine Learning
 
 <!---
